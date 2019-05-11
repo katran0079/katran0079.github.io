@@ -1,0 +1,23 @@
+.contacts {
+    width: 960px;
+    height: 400px;
+    display:block;
+    margin: 0 auto;
+    background-color:rgb(151, 164, 206);
+    padding: 20px 30px; 
+    border:solid 10px burlywood;
+    position: relative;
+    top: 210px;
+}
+
+h2 {
+    text-decoration: underline;
+    line-height:20px;
+    position: relative;
+    top:150px;
+    left:50px;
+}
+
+p {
+    clear:both;   
+}

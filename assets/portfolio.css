@@ -1,0 +1,72 @@
+.pictures {
+    border: 10px solid burlywood;
+    width: 960px;
+    height: 900px;
+    padding: 30px;
+    margin: auto;
+    background-color:rgb(151, 164, 206);
+    position: relative;
+    top: 150px;
+}
+
+#picture1{
+    position: relative;
+    float:left;
+    top: 30px;
+}
+
+#picture2{
+    position: relative;
+    float:left;
+    top: 30px;
+    left: 60px;
+}
+
+#picture3{
+    position: relative;
+    float:left;
+    top: 100px;
+}
+
+#picture4 {
+    position: relative;
+    float:left;
+    top: 100px;
+    left: 60px;
+}
+
+#Project1 {
+    float:left;
+    position: relative;
+    line-height: 20px;
+    top:35px;
+}
+
+#Project2 {
+    position: relative;
+    line-height: 20px;
+    left: 315px;
+    top: 35px;
+}
+
+#Project3 {
+    position:relative;
+    line-height: 20px;
+    left: -700px;
+    top: 375px;
+}
+
+#Project4 {
+    position: relative;
+    line-height: 20px;
+    left: -290px;
+    top: 335px;
+}
+
+#Port {
+    position: relative;
+    top: 150px;
+    line-height: 20px;
+    text-decoration: underline;
+    left:50px;
+}
